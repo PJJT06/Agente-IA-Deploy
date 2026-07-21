@@ -1,0 +1,24 @@
+[
+  {
+    "text": "",
+    "metadata": {
+      "document_id": "Politica_Seguridad_Prevencion_Fraudes.pdf",
+      "category": "seguridad",
+      "source_path": "data\\raw\\seguridad\\Politica_Seguridad_Prevencion_Fraudes.pdf",
+      "chunk_index": 0,
+      "page_number": null,
+      "section": null
+    }
+  },
+  {
+    "text": "Política de Seguridad y Prevención de Fraudes Versión:1.0 Fecha:2026 Área responsable: Seguridad & Fraudes Clasificación: Documento Oficial 1. Introducción Esta política establece los lineamientos, controles y procedimientos que nuestra Fintech implementa para proteger la información, prevenir actividades fraudulentas y garantizar la integridad de las operaciones financieras. La seguridad es un pilar fundamental de la plataforma y se gestiona bajo estándares internacionales y regulaciones financieras vigentes. 2. Objetivos • Proteger los datos personales y financieros. • Detectar y prevenir fraudes. • Garantizar continuidad del servicio. • Cumplir AML y KYC. • Establecer responsabilidades. 3. Controles de Seguridad Autenticación multifactor, biometría opcional, bloqueo por intentos fallidos, expiración de sesiones, cifrado AES‑256, TLS 1.3, RBAC, monitoreo 24/7, modelos de riesgo y alertas automáticas. 4. Prevención de Fraudes KYC: verificación documental, biométrica y bases oficiales. AML: detección de operaciones inusuales, límites dinámicos y reportes. Protección al usuario: notificaciones, bloqueo preventivo y recomendaciones. 5. Respuesta ante Incidentes Tipos: accesos no autorizados, fraude, filtración de datos e incidentes de infraestructura. Proceso: detección, aislamiento, investigación, mitigación, reporte y comunicación. Tiempos: críticos <30 min, moderados <4 h, menores <24 h. 6. Responsabilidades Seguridad: monitoreo e incidentes. Fraudes: análisis y coordinación. Usuarios: proteger credenciales y reportar actividad sospechosa. 7. Actualización Revisión cada 12 meses o ante cambios regulatorios, tecnológicos o de riesgo. 8. Contacto Correo: seguridad@fintech-corp.com Área responsable: Seguridad & Fraudes",
+    "metadata": {
+      "document_id": "Politica_Seguridad_Prevencion_Fraudes.pdf",
+      "category": "seguridad",
+      "source_path": "data\\raw\\seguridad\\Politica_Seguridad_Prevencion_Fraudes.pdf",
+      "chunk_index": 1,
+      "page_number": null,
+      "section": null
+    }
+  }
+]
