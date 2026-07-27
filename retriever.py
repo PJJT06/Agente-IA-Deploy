@@ -9,15 +9,31 @@ def load_documents():
     docs = []
     metas = []
 
-    base_path = "docs"
+    # Ruta absoluta compatible con Render
+    base_path = os.path.join(os.getcwd(), "docs")
+
+    if not os.path.exists(base_path):
+        print(f"⚠️ La carpeta 'docs' no existe en Render: {base_path}")
+        return [], []
+
+    print(f"📁 Carpeta encontrada: {base_path}")
+    print("📄 Archivos detectados:", os.listdir(base_path))
 
     for root, _, files in os.walk(base_path):
         for f in files:
             if f.endswith(".txt"):
                 full_path = os.path.join(root, f)
 
-                with open(full_path, "r", encoding="utf-8") as file:
-                    content = file.read()
+                try:
+                    with open(full_path, "r", encoding="utf-8") as file:
+                        content = file.read().strip()
+                except Exception as e:
+                    print(f"❌ Error leyendo {f}: {e}")
+                    continue
+
+                if not content:
+                    print(f"⚠️ Archivo vacío ignorado: {f}")
+                    continue
 
                 # Separar metadatos del contenido
                 parts = content.split("-" * 60)
@@ -36,6 +52,7 @@ def load_documents():
                 docs.append(text_block.strip())
                 metas.append(meta)
 
+    print(f"✅ Documentos cargados: {len(docs)}")
     return docs, metas
 
 
@@ -44,13 +61,30 @@ DOCUMENTS, METAS = load_documents()
 # -----------------------------
 # TF‑IDF Vectorizer
 # -----------------------------
-vectorizer = TfidfVectorizer(stop_words="english")
-tfidf_matrix = vectorizer.fit_transform(DOCUMENTS)
+if DOCUMENTS:
+    try:
+        vectorizer = TfidfVectorizer(
+            stop_words="english",
+            token_pattern=r"(?u)\b\w+\b"  # evita empty vocabulary
+        )
+        tfidf_matrix = vectorizer.fit_transform(DOCUMENTS)
+        print("✅ Vectorización completada con éxito.")
+    except Exception as e:
+        print(f"❌ Error en vectorización: {e}")
+        vectorizer = None
+        tfidf_matrix = None
+else:
+    print("❌ No hay documentos válidos para vectorizar.")
+    vectorizer = None
+    tfidf_matrix = None
 
 # -----------------------------
 # Búsqueda por similitud TF‑IDF
 # -----------------------------
 def semantic_search(query, top_k=10):
+    if vectorizer is None:
+        return [], []
+
     query_vec = vectorizer.transform([query])
     scores = (query_vec @ tfidf_matrix.T).toarray()[0]
 
@@ -145,6 +179,9 @@ def build_context(docs, metas):
 # Función principal
 # -----------------------------
 def retrieve(query):
+    if vectorizer is None:
+        return "⚠️ No hay documentos cargados. El retriever no está inicializado."
+
     docs, metas = semantic_search(query)
     top_docs, top_metas = rerank(query, docs, metas)
     return build_context(top_docs, top_metas)
