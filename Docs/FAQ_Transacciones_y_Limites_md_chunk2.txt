@@ -1,0 +1,21 @@
+DOCUMENTO: FAQ_Transacciones_y_Limites.md
+CATEGORÍA: operaciones
+ORIGEN: data\raw\operaciones\FAQ_Transacciones_y_Limites.md
+CHUNK: 2
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+------------------------------------------------------------------------
+## 8. ¿Cómo aumento mis límites de transferencia?
+Puedes solicitarlo desde la app.\
+Requiere validaciones adicionales de identidad (KYC).
+------------------------------------------------------------------------
+## 9. ¿Qué costos tienen las transferencias?
+- Internas: sin costo\
+- Nacionales: \$2.000 COP\
+- Internacionales: 1.5% del monto + tarifa SWIFT
+------------------------------------------------------------------------
+## 10. ¿Qué hago si una transferencia aparece como "pendiente"?
+Está en proceso de validación.\
+Puede tardar entre 1 y 30 minutos.\
+Si supera 1 hora, contacta soporte.

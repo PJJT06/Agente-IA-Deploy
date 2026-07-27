@@ -1,0 +1,26 @@
+DOCUMENTO: FAQ_Transacciones_y_Limites.md
+CATEGORÍA: operaciones
+ORIGEN: data\raw\operaciones\FAQ_Transacciones_y_Limites.md
+CHUNK: 1
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+------------------------------------------------------------------------
+## 4. ¿Cuánto tarda una transferencia internacional?
+Entre 1 y 3 días hábiles, dependiendo del país destino y bancos
+intermediarios.
+------------------------------------------------------------------------
+## 5. ¿Puedo cancelar una transferencia?
+Sí, siempre que no haya sido procesada.\
+Una vez enviada al banco destino, no puede cancelarse.
+------------------------------------------------------------------------
+## 6. ¿Qué hago si envié dinero a la cuenta equivocada?
+Contacta soporte inmediatamente.\
+Si la transferencia no ha sido procesada, puede revertirse.\
+Si ya fue completada, se inicia conciliación con el banco receptor.
+------------------------------------------------------------------------
+## 7. ¿Por qué se bloqueó mi cuenta temporalmente?
+Razones comunes: - Intentos fallidos de acceso\
+- Actividad inusual\
+- Transacciones fuera del comportamiento habitual\
+- Solicitud del usuario

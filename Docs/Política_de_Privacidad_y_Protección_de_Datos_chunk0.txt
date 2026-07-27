@@ -1,0 +1,8 @@
+DOCUMENTO: Política de Privacidad y Protección de Datos.pdf
+CATEGORÍA: legal
+ORIGEN: data\raw\legal\Política de Privacidad y Protección de Datos.pdf
+CHUNK: 0
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+Política de Privacidad y Protección de Datos Versión: 1.0 Fecha: 2026 Área responsable: Legal & Compliance Clasificación: Documento Oficial 1. Introducción Esta Política de Privacidad establece cómo nuestra Fintech recolecta, utiliza, almacena y protege los datos personales de sus usuarios y colaboradores. Nuestro compromiso es garantizar la seguridad, confidencialidad y correcto tratamiento de la información conforme a la normativa vigente en protección de datos y servicios financieros digitales. 2. Datos que recolectamos Recolectamos únicamente la información necesaria para operar nuestros servicios financieros digitales: 2.1 Datos de identificación  Nombre completo  Documento de identidad  Fecha de nacimiento  Nacionalidad 2.2 Datos financieros  Número de cuenta  Historial de transacciones  Productos financieros adquiridos  Límites y configuraciones de seguridad 2.3 Datos de contacto  Correo electrónico  Número telefónico  Dirección de residencia 2.4 Datos técnicos

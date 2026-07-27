@@ -1,0 +1,8 @@
+DOCUMENTO: Términos y Condiciones de Uso.pdf
+CATEGORÍA: legal
+ORIGEN: data\raw\legal\Términos y Condiciones de Uso.pdf
+CHUNK: 1
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+Documento 2 — Términos y Condiciones de Uso Versión: 1.0 Fecha: 2026 Área responsable: Legal & Compliance Clasificación: Documento Oficial Términos y Condiciones de Uso de la Plataforma Fintech 1. Aceptación del Servicio Al acceder y utilizar nuestra plataforma financiera digital, el usuario acepta plenamente estos Términos y Condiciones. Si no está de acuerdo con alguna de las disposiciones aquí establecidas, debe abstenerse de utilizar el servicio. 2. Servicios Ofrecidos Nuestra Fintech proporciona los siguientes servicios digitales:  Apertura y administración de cuentas digitales.  Transferencias nacionales e internacionales.  Pagos de servicios y compras en línea.  Emisión y gestión de tarjetas virtuales.  Acceso al historial de movimientos y reportes financieros.  Herramientas de seguridad y control de límites transaccionales. La disponibilidad de los servicios puede variar según el país, la regulación vigente y el perfil del usuario. 3. Obligaciones del Usuario El usuario se compromete a:  Proveer información verídica, completa y actualizada.  Mantener la confidencialidad de sus credenciales de acceso.  Notificar inmediatamente cualquier actividad sospechosa.  Utilizar la plataforma únicamente para fines legales.  Cumplir con las políticas internas de seguridad y privacidad.

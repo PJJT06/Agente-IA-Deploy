@@ -1,0 +1,8 @@
+DOCUMENTO: Términos y Condiciones de Uso.pdf
+CATEGORÍA: legal
+ORIGEN: data\raw\legal\Términos y Condiciones de Uso.pdf
+CHUNK: 2
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+4. Limitaciones del Servicio El uso de la plataforma puede estar sujeto a:  Mantenimientos programados o interrupciones técnicas.  Límites transaccionales definidos por el perfil de riesgo del usuario.  Restricciones regulatorias aplicables a servicios financieros.  Validaciones adicionales en operaciones de alto riesgo. La empresa no garantiza disponibilidad continua del servicio, aunque se compromete a minimizar interrupciones. 5. Suspensión o Cancelación de Cuenta La empresa puede suspender temporal o definitivamente una cuenta en los siguientes casos:  Sospecha de fraude o actividades ilícitas.  Incumplimiento de estos Términos y Condiciones.  Uso indebido de la plataforma o sus servicios.  Requerimientos de autoridades regulatorias. En caso de suspensión, el usuario será notificado por los canales oficiales. 6. Responsabilidad de la Empresa La Fintech se compromete a:  Proteger la información del usuario mediante medidas de seguridad avanzadas.  Cumplir con la normativa financiera y de protección de datos.  Proveer información clara y transparente sobre tarifas y servicios.  Actuar diligentemente ante incidentes de seguridad o fraude. La empresa no será responsable por daños derivados de:  Uso indebido de la plataforma.  Fallas de terceros proveedores.  Fuerza mayor o eventos fuera de su control. 7. Modificaciones a los Términos

@@ -1,0 +1,8 @@
+DOCUMENTO: Política de Privacidad y Protección de Datos.pdf
+CATEGORÍA: legal
+ORIGEN: data\raw\legal\Política de Privacidad y Protección de Datos.pdf
+CHUNK: 1
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+ Dirección IP  Tipo de dispositivo  Sistema operativo  Actividad de acceso para fines de seguridad 3. Finalidad del tratamiento de datos Los datos recolectados se utilizan para:  Autenticación y verificación de identidad (KYC).  Procesamiento de transacciones financieras.  Prevención y detección de fraudes (AML).  Cumplimiento de obligaciones regulatorias.  Atención al cliente y soporte técnico.  Mejoras en la plataforma y experiencia del usuario. 4. Derechos del usuario Los usuarios pueden ejercer los siguientes derechos:  Acceso: conocer qué datos almacenamos.  Rectificación: solicitar correcciones.  Eliminación: pedir la supresión cuando aplique.  Revocación: retirar el consentimiento del tratamiento.  Consulta y reclamo: ante la autoridad competente o directamente con la empresa. 5. Seguridad de la información Implementamos medidas técnicas y organizacionales para proteger los datos:  Cifrado AES-256 en tránsito y reposo.  Autenticación multifactor (MFA).  Monitoreo continuo de actividad sospechosa.  Auditorías internas trimestrales.  Protocolos de respuesta ante incidentes de seguridad.

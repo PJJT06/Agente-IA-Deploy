@@ -1,0 +1,12 @@
+DOCUMENTO: Tarifas y Comisiones.xlsx
+CATEGORÍA: tarifas
+ORIGEN: data\raw\tarifas\Tarifas y Comisiones.xlsx
+CHUNK: 1
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+Servicio: Reemplazo de tarjeta virtual | Descripción: Reemisión por pérdida o bloqueo | Costo Fijo (COP): 5 | Costo Variable (%): 0 | Notas: Aplicable solo en casos de reemplazo
+Servicio: Certificado de movimientos | Descripción: Documento PDF con historial de transacciones | Costo Fijo (COP): 3 | Costo Variable (%): 0 | Notas: Entrega inmediata
+Servicio: Certificado bancario | Descripción: Certificación oficial de cuenta | Costo Fijo (COP): 5 | Costo Variable (%): 0 | Notas: Entrega en 24 horas
+Servicio: Reversión de transferencia | Descripción: Proceso de reversión si aplica | Costo Fijo (COP): 0 | Costo Variable (%): 0 | Notas: Sujeto a validación del banco receptor
+Servicio: Aumento de límites | Descripción: Solicitud de incremento de límites transaccionales | Costo Fijo (COP): 0 | Costo Variable (%): 0 | Notas: Requiere validación KYC

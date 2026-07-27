@@ -1,0 +1,8 @@
+DOCUMENTO: Política de Privacidad y Protección de Datos.pdf
+CATEGORÍA: legal
+ORIGEN: data\raw\legal\Política de Privacidad y Protección de Datos.pdf
+CHUNK: 2
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+6. Conservación de los datos Los datos se conservan únicamente por el tiempo necesario para cumplir con:  Obligaciones legales y regulatorias.  Procesos operativos y financieros.  Requerimientos de auditoría. Una vez cumplida la finalidad, los datos se eliminan o anonimizan. 7. Transferencia de datos Podemos compartir datos con:  Autoridades regulatorias.  Proveedores tecnológicos certificados.  Socios financieros autorizados. Nunca vendemos información personal a terceros. 8. Actualización de esta política Esta política puede actualizarse para reflejar cambios regulatorios o mejoras internas. Los usuarios serán notificados cuando se realicen modificaciones relevantes. 9. Contacto Para ejercer derechos o realizar consultas sobre privacidad: Correo: privacidad@fintech-corp.com Área responsable: Legal & Compliance

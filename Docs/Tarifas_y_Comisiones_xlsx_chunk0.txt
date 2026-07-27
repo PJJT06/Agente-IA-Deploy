@@ -1,0 +1,12 @@
+DOCUMENTO: Tarifas y Comisiones.xlsx
+CATEGORÍA: tarifas
+ORIGEN: data\raw\tarifas\Tarifas y Comisiones.xlsx
+CHUNK: 0
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+Servicio: Transferencia interna | Descripción: Envío entre cuentas dentro de la Fintech | Costo Fijo (COP): 0 | Costo Variable (%): 0 | Notas: Sin costo para todos los usuarios
+Servicio: Transferencia nacional | Descripción: Envío a bancos dentro del país | Costo Fijo (COP): 2 | Costo Variable (%): 0 | Notas: Tiempo estimado: 5–30 min
+Servicio: Transferencia internacional | Descripción: Envío a bancos fuera del país | Costo Fijo (COP): 15 | Costo Variable (%): 1.5% | Notas: Puede incluir tarifa SWIFT adicional
+Servicio: Pago de servicios | Descripción: Facturas, recargas, servicios públicos | Costo Fijo (COP): 1 | Costo Variable (%): 0 | Notas: Algunos servicios pueden tener tarifas propias
+Servicio: Emisión de tarjeta virtual | Descripción: Creación de tarjeta digital | Costo Fijo (COP): 0 | Costo Variable (%): 0 | Notas: Sin costo

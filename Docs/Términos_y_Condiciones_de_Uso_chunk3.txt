@@ -1,0 +1,8 @@
+DOCUMENTO: Términos y Condiciones de Uso.pdf
+CATEGORÍA: legal
+ORIGEN: data\raw\legal\Términos y Condiciones de Uso.pdf
+CHUNK: 3
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+La empresa puede actualizar estos Términos y Condiciones para reflejar cambios regulatorios, mejoras del servicio o nuevas funcionalidades. Los usuarios serán notificados cuando las modificaciones afecten el uso del servicio. 8. Contacto Para consultas relacionadas con estos Términos y Condiciones: Correo: legal@fintech-corp.com Área responsable: Legal & Compliance

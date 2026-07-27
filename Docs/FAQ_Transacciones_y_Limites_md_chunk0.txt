@@ -1,0 +1,29 @@
+DOCUMENTO: FAQ_Transacciones_y_Limites.md
+CATEGORÍA: operaciones
+ORIGEN: data\raw\operaciones\FAQ_Transacciones_y_Limites.md
+CHUNK: 0
+PÁGINA: None
+SECCIÓN: None
+------------------------------------------------------------
+# Preguntas Frecuentes (FAQ) sobre Transacciones y Límites
+**Versión:** 1.0\
+**Fecha:** 2026\
+**Área responsable:** Atención al Cliente & Operaciones\
+**Clasificación:** Documento Público Interno
+------------------------------------------------------------------------
+## 1. ¿Cuál es el límite diario de transferencias?
+El límite depende del perfil del usuario: - Usuarios estándar:
+\$1.000.000 COP\
+- Usuarios verificados: \$5.000.000 COP\
+- Usuarios premium: \$10.000.000 COP
+------------------------------------------------------------------------
+## 2. ¿Por qué una transferencia puede ser rechazada?
+Causas comunes: - Fondos insuficientes\
+- Límite diario excedido\
+- Datos del destinatario incorrectos\
+- Actividad sospechosa detectada\
+- Restricciones regulatorias
+------------------------------------------------------------------------
+## 3. ¿Cuánto tarda una transferencia nacional?
+Generalmente menos de 5 minutos.\
+En casos excepcionales puede tardar hasta 30 minutos.
