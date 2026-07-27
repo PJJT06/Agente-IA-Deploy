@@ -2,6 +2,10 @@ import os
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+
+print("Ruta actual:", os.getcwd())
+print("Contenido del directorio:", os.listdir(os.getcwd()))
+
 # -----------------------------
 # Cargar documentos y metadatos
 # -----------------------------
