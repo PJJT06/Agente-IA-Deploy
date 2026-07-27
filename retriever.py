@@ -52,8 +52,7 @@ tfidf_matrix = vectorizer.fit_transform(DOCUMENTS)
 # -----------------------------
 def semantic_search(query, top_k=10):
     query_vec = vectorizer.transform([query])
-    scores = (query_vec @ tfidf_matrix.transpose()).toarray()[0]
-
+    scores = (query_vec @ tfidf_matrix.T).toarray()[0]
 
     ranked_idx = np.argsort(scores)[::-1][:top_k]
 
